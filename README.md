@@ -352,13 +352,3 @@ env_key = "CODEXZH_API_KEY"
 
 然后在系统环境变量中设置 `CODEXZH_API_KEY` 为你的 sk 密钥。
 
-
-
----
-
-## 📞 联系支持
-
-- **官方网站**：[www.codexzh.com](https://www.codexzh.com)
-- **购买渠道**：官网直购 或 闲鱼平台（激活码形式）
-- **技术支持**：请通过官网联系我们的技术支持团队
-
